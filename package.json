@@ -1,0 +1,9 @@
+{
+  "name": "chatgpt-puppeteer",
+  "version": "0.0.1",
+  "description": "\"API\" do chat gpt com puppeteer",
+  "main": "index.js",
+  "repository": "https://github.com/saulotarsobc/chatgpt-puppteer.git",
+  "author": "Saulo Costa <saulotarsobc@gmail.com>",
+  "license": "MIT"
+}
